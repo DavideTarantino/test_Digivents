@@ -54,11 +54,13 @@ export default {
 </script>
 
 <style scoped>
-#lista-dolci ul {
-  list-style-type: none;
-  display: flex;
-  flex-direction: column;
-  text-align: start;
-}
+
+#lista-dolci 
+  ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+  }
 </style>
 
