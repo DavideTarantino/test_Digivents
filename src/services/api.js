@@ -20,5 +20,8 @@ export default {
         console.error('Errore nel recupero dei dati:', error);
         throw error;
       });
+  },
+  postDolce(dolce) {
+    return apiClient.post('/dolci', dolce);
   }
 };

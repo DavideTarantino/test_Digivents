@@ -8,6 +8,7 @@
         <li>Quantità: {{ dolce.quantita }}</li>
       </ul>
     </div>
+    <RouterLink to="/add">Aggiungi Dolce</RouterLink>
   </div>
 </template>
 
