@@ -4,7 +4,7 @@
       "id": "01bdefe9-1a98-4ee8-9bf3-a4db1dea314c",
       "nome": "torta di mele",
       "prezzo": 10.01,
-      "data": "2024-06-05",
+      "data": "2024-06-08",
       "quantita": 3,
       "ingredienti": []
     },
@@ -12,7 +12,7 @@
       "id": "24b7ae3b-4c16-4daa-a207-b887a2d63195",
       "nome": "sfogliatella",
       "prezzo": 1.5,
-      "data": "2024-06-06",
+      "data": "2024-06-08",
       "quantita": 1,
       "ingredienti": []
     },
@@ -20,7 +20,7 @@
       "id": "18375ceb-79b3-4526-91bd-6637ecc4004d",
       "nome": "cannolo",
       "prezzo": 1.5,
-      "data": "2024-06-04",
+      "data": "2024-06-07",
       "quantita": 1,
       "ingredienti": []
     },
@@ -29,17 +29,26 @@
       "nome": "gelato al cioccolato",
       "prezzo": 10,
       "quantita": 2,
-      "data": "2024-06-05"
+      "data": "2024-06-09"
+    },
+    {
+      "id": "69cb",
+      "nome": "pasticcino alla crema ",
+      "prezzo": 12,
+      "quantita": 2,
+      "data": "2024-06-09"
     }
   ],
   "utenti": [
     {
       "user": "mario",
-      "pass": "1234"
+      "pass": "1234",
+      "id": "dd32"
     },
     {
       "user": "carmine",
-      "pass": "test"
+      "pass": "test",
+      "id": "8f09"
     }
   ]
 }
