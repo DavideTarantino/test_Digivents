@@ -37,6 +37,20 @@
       "prezzo": 12,
       "quantita": 2,
       "data": "2024-06-09"
+    },
+    {
+      "id": "9959",
+      "nome": "deliziosa al cioccolato ",
+      "prezzo": 12,
+      "quantita": 22,
+      "data": "2024-06-09"
+    },
+    {
+      "id": "d228",
+      "nome": "graffa",
+      "prezzo": 2,
+      "quantita": 12,
+      "data": "2024-06-08"
     }
   ],
   "utenti": [
